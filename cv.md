@@ -4,7 +4,7 @@
 ## Summary
 My goal is to become **Junior Software Developer.** For me it is important to learn new things everyday and to improve as a person.
 ## Skills 
-HTML, CSS, JavaScript, JAVA, Git
+HTML, CSS, JavaScript, JAVA, Git, Postman
 ## Code example
 ```
 public class FibonacciSeries {
