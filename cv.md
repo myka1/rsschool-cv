@@ -32,17 +32,20 @@ console.log(howOld(22, 2021)); // should print: You were 21 in the year 2021
 - Responding to customer queries via Zendesk and live chat
 - Working with Compliance and Payments teams
 - Working with JIRA tickets
+
 ### Technical Support Specialist at CoinGate
 *June 2021 — June 2022*
 - Installing and configuring computer systems and applications within the company
 - Installing hardware parts for laptops
 - Responding to technical queries
 - Troubleshooting software and hardware issues
+
 ### QA Specialist at CoinGate
 *October 2021 — June 2022*
 - Manual testing of front end and back end tickets
 - Writing bug reports on JIRA
 - API testing with Postman
 - Testing Woocommerce, PrestaShop and Opencart plugins
+
 ## Links
 [Linkedin](https://www.linkedin.com/in/mykolas-stramkauskas-625850165/) [GitHub](https://github.com/myka1)
