@@ -7,22 +7,24 @@ My goal is to become **Junior Software Developer.** For me it is important to le
 HTML, CSS, JavaScript, JAVA, Git, Postman
 ## Code example
 ```
-public class FibonacciSeries {
-    public void printFibonacci(int lastFibonacci) {
-        int first = 0;
-        int second = 1;
+const howOld = (age, year) => {
+  const currentYear = new Date().getFullYear();
+  const calculatedAge = age + (year - currentYear);
+  const yearBorn = currentYear - age;
 
-        if(lastFibonacci > 0){
-            System.out.println(first);
-            for(int i = 2; i <= lastFibonacci; i++){
-                System.out.println(second);
-                int temp = second;
-                second = first + second;
-                first = temp;
-            }
-        }
-    }
+  if (year > currentYear) {
+    return `You will be ${calculatedAge} in the year ${year}`;
+  } else if (year < yearBorn) {
+    const yearsBefore = yearBorn - year;
+    return `The year ${year} was ${yearsBefore} years before you were born`;
+  } else {
+    return `You were ${calculatedAge} in the year ${year}`;
+  }
 }
+
+console.log(howOld(22, 2024)); // should print: You will be 24 in the year 2024
+console.log(howOld(22, 1999)); // should print: The year 1999 was 1 years before you were born
+console.log(howOld(22, 2021)); // should print: You were 21 in the year 2021
 ```
 ## Work experience
 ### Customer Support Specialist at CoinGate
