@@ -1,4 +1,4 @@
-# Mykolas Stramkauskas CV
+# Mykolas Stramkauskas
 ## Contact Info
 **Email:** msmykolas@gmail.com **Discord account:** Myka#6400
 ## Summary
